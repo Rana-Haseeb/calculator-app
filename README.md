@@ -1,5 +1,7 @@
 # CALC - Dark Edition
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Site-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://rana-haseeb.github.io/calculator-app/)
+
 A sleek, single-file calculator built with plain HTML, CSS, and JavaScript. It combines a neon dark interface with a responsive layout, keyboard support, and polished calculator behavior for everyday arithmetic.
 
 ![CALC Dark Edition](https://img.shields.io/badge/CALC-Dark%20Edition-00ff9d?style=for-the-badge)
